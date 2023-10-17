@@ -42,25 +42,6 @@ h1 {
   font-size: 80px;
 }
 
-.download_table--button {
-  text-decoration: none;
-  border: solid;
-  font-size: 17px;
-  padding: 0.15em;
-  margin: 0.2em;
-  margin-left: 0.5em;
-}
-
-.download_table {
-  margin: 0 auto;
-}
-
-td {
-  text-align: left;
-}
-.env_list {
-  text-align: left;
-}
 .post--image {
   width: 75%;
   max-width: 400px;
